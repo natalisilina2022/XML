@@ -1,0 +1,10 @@
+<root>
+ <BugID>1</BugID>
+ <BugName>Crash</BugName>
+ <Summary>application crashes when the search starts</Summary>
+ <SubmitDate>5/28/2022</SubmitDate>
+ <Platform>iPhone 7</Platform>
+ <OperatingSystem>iOS 15.5</OperatingSystem>
+ <ExpectedResult>when the search is activated, a search bar appears</ExpectedResult>
+ <ActualResult>application crashes when the search starts</ActualResult>
+</root>
